@@ -1,0 +1,25 @@
+portcssone.css
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="assets/css/portcssone.css">
+<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+<title>home page</title>
+</head>
+<body>
+<center>
+
+<div class="title">
+<p>jia gao</p>
+</div>
+
+<div class="links">
+<a href="porthtmltwo.html">about me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/jiagaoart/">instagram</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio.newschool.edu/jiagao/">portfolio</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="porthtmlthree.html">gallery</a></p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+</center>
+</body>
+</html>
